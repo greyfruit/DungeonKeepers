@@ -9,3 +9,5 @@ Game based on Rock-Paper-Scissors (Water-Fire-Earth) battle system, you need to 
 ![presentGameplay](https://github.com/greyfruit/DungeonKeepers/blob/master/presentGameplay.gif "Gameplay")
 
 You can borrow some things like health-bars, queue animations, tap-to-win system etc.
+
+p.s.: do not perceive it as a final game, its just funny proto
