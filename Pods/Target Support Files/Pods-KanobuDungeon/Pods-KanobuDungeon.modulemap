@@ -1,0 +1,6 @@
+framework module Pods_KanobuDungeon {
+  umbrella header "Pods-KanobuDungeon-umbrella.h"
+
+  export *
+  module * { export * }
+}
